@@ -11,8 +11,8 @@ Video link:
 
 At the website, 
 1.	Website asks permission for set the maps.
-2.	You can login/register to website. If you do that, you can see discounted prices.
+2.	You can login/register to website. If you do that, you can see discounted prices. Also, map will updates with user instance.
 3.	Map shows the offices that belongs to the user's city.
-4.	You can search by office, data and time 
+4.	You can search by office, data and time.
 5.	You can go to main homepage with clicking the white logo “Avis” at the navbar.
 6.	You can filter searched results.
