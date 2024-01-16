@@ -4,7 +4,7 @@ Website link: https://ihsanefeuzun.pythonanywhere.com/
 
 I created data models. You can see it below.
 
-![Resim2]([https://github.com/ihsanefeuzun/SE-3355-Final/blob/main/model.png?raw=true])
+![Resim2](https://github.com/ihsanefeuzun/SE-3355-Final/blob/main/model.png?raw=true)
 
 Video link:
  
