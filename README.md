@@ -8,7 +8,7 @@ I used pythonanywhere.com for deployment.
 
 ![Resim2](https://github.com/ihsanefeuzun/SE-3355-Final/blob/main/model.png?raw=true)
 
-Video link:
+Video link:https://drive.google.com/file/d/1Vp4835XBLxDO3NiJvzx-p2GWikrP-Bui/view?usp=drive_link
  
 
 At the website, 
